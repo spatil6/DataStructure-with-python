@@ -2,7 +2,7 @@
 """
 Created on Tue Apr 11 17:46:19 2017
 
-@author: SP43190
+@author: sandip
 """
 
 class Node:
